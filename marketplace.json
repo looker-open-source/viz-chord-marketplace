@@ -1,0 +1,20 @@
+{
+  "label": "Chord Visualization",
+  "category_label": "Visualizations",
+  "branding": {
+    "image_uri": "https://wwwstatic-a.lookercdn.com/blocks/logos/aws.png",
+    "tagline": "Chord diagrams are an effective way to visualize the relationship between two items within a larger set."
+  },
+
+    "constants": {
+        "VIS_LABEL": {
+            "label": "Visualization Label",
+            "description": "This label will appear in the visualization selector in the Looker Explore UI."
+        },
+        "VIS_ID": {
+            "label": "Visualization ID",
+            "description": "This ID must be unique across all custom visualizations on your instance.",
+            "value_constraint": "visualization"
+        }
+    }
+}
