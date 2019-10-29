@@ -2,7 +2,7 @@
   "label": "Chord Visualization",
   "category_label": "Plug-ins",
   "branding": {
-    "image_uri": "https://wwwstatic-a.lookercdn.com/blocks/logos/aws.png",
+    "image_uri": "https://marketplace-api.looker.com/visualization-screenshots/chord_icon.png",
     "tagline": "Chord diagrams are an effective way to visualize the relationship between two items within a larger set."
   },
 
