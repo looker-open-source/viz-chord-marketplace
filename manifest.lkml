@@ -12,6 +12,6 @@ constant: VIZ_ID {
 
 visualization: {
   id: "@{VIZ_ID}"
-  url: "https://looker-custom-viz-a.lookercdn.com/master/chord.js"
+  url: "https://marketplace-api.looker.com/viz-dist/chord.js"
   label: "@{VIZ_LABEL}"
 }
